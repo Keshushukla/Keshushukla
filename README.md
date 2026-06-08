@@ -30,24 +30,8 @@ PostgreSQL • Vector Databases • REST APIs • Git/GitHub
 
 ---
 
-### Projects
-
-#### Narrative Generator System
-
-Built a multi-document AI system for automated ESG narrative generation using LangGraph, FastAPI, PostgreSQL, and vector databases.
-
-#### AI-Powered HR Assistant
-
-Developed an AI-based HR assistant for resume analysis, interview question generation, and transcript evaluation workflows.
-
----
-
 ### Education
 
 * M.Tech (IT), Delhi Technological University
 * GATE 2024 Qualified in Data Science & Artificial Intelligence
-
----
-
-LinkedIn: linkedin.com/in/keshushukla
 
